@@ -2,3 +2,8 @@
 {
     return 3.0;
 }
+
+static double CalculateMin(double[] values)
+{
+    return 1.0;
+}

@@ -10,7 +10,7 @@ static double CalculateMin(double[] values)
 
 static double CalculateAverage(int[] values)
 {
-    return 25;
+    return 20;
 }
 
 

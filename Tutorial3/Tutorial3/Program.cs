@@ -12,3 +12,8 @@ static double CalculateAverage(int[] values)
 {
     return 3.0;
 }
+
+static double Calculate(int[] values)
+{
+    return 1.0;
+}

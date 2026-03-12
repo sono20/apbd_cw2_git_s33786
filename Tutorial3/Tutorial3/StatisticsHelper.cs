@@ -2,6 +2,12 @@
 
 public class StatisticsHelper
 {
-    private string name;
-    private string description;
+    private string _name;
+    private string _description;
+
+    public statisticsHelper()
+    {
+        _name = "Mateusz";
+        _description = "Mateuszek";
+    }
 }

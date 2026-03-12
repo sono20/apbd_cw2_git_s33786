@@ -13,7 +13,4 @@ static double CalculateAverage(int[] values)
     return 25;
 }
 
-static int Calculate(int[] values)
-{
-    return 3;
-}
+
